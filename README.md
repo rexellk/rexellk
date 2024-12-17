@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Summer 2025 Internships**
 
-- 👨‍💻 All of my projects are available at [cultural-experiment-404468.framer.app/](cultural-experiment-404468.framer.app/)
+- 👨‍💻 All of my projects are available at [my website](cultural-experiment-404468.framer.app/)
 
 - 💬 Ask me about **Anything!**
 
 - 📫 How to reach me **k.rexnath@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IUg09LmmNLeM_owRMxqZRbsP70w73D0t/view?usp=sharing](https://drive.google.com/file/d/1IUg09LmmNLeM_owRMxqZRbsP70w73D0t/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1IUg09LmmNLeM_owRMxqZRbsP70w73D0t/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
