@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Summer 2025 Internships**
 
-- 👨‍💻 All of my projects are available at [my website](cultural-experiment-404468.framer.app/)
+- 👨‍💻 All of my projects are available at [my website](cultural-experiment-404468.framer.app)
 
 - 💬 Ask me about **Anything!**
 
