@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bawblexd&label=Profile%20views&color=0e75b6&style=flat" alt="bawblexd" /> </p>
 
-- 🔭 I’m currently working on [PERMIAS NASIONAL](https://www.permiasnasional.com/)
+- 🔭 I’m currently working on [DESAI ACCELERATOR](https://desaiaccelerator.umich.edu/)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Entrepreneur Projects**
 
-- 🤝 I’m looking for help with **Summer 2025 Internships**
+- 🤝 I’m looking for help with **Summer 2026 Internships**
 
 - 👨‍💻 All of my projects are available at [My Website](https://cultural-experiment-404468.framer.app/)
 
